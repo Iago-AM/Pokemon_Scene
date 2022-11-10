@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mew Pokémon
+* source:	https://sketchfab.com/3d-models/mew-pokemon-4c9dfbb590744368a05f1bed1fbf8d3e
+* author:	germydan (https://sketchfab.com/germydan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mew Pokémon" (https://sketchfab.com/3d-models/mew-pokemon-4c9dfbb590744368a05f1bed1fbf8d3e) by germydan (https://sketchfab.com/germydan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

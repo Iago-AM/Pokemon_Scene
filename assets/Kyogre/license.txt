@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kyogre
+* source:	https://sketchfab.com/3d-models/kyogre-265b2838b1824ec599274cef63a5b906
+* author:	nguyenlouis32 (https://sketchfab.com/nguyenlouis32)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kyogre" (https://sketchfab.com/3d-models/kyogre-265b2838b1824ec599274cef63a5b906) by nguyenlouis32 (https://sketchfab.com/nguyenlouis32) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

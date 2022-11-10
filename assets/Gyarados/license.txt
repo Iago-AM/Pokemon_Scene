@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gyarados by Stam
+* source:	https://sketchfab.com/3d-models/gyarados-by-stam-cd4aad0cd73d406fb2140903b5f0e0b0
+* author:	stam3D (https://sketchfab.com/stam3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gyarados by Stam" (https://sketchfab.com/3d-models/gyarados-by-stam-cd4aad0cd73d406fb2140903b5f0e0b0) by stam3D (https://sketchfab.com/stam3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

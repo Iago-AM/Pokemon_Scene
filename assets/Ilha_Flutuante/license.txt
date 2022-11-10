@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Mini Floating Island
+* source:	https://sketchfab.com/3d-models/stylized-mini-floating-island-48ef6c69479541d3b4aed13ff7290ff8
+* author:	Tom Verbeeck (https://sketchfab.com/VerbeeckTom)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Mini Floating Island" (https://sketchfab.com/3d-models/stylized-mini-floating-island-48ef6c69479541d3b4aed13ff7290ff8) by Tom Verbeeck (https://sketchfab.com/VerbeeckTom) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

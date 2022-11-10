@@ -1,0 +1,424 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 23328,
+      "max": [
+        5.019969940185547,
+        4.773069858551025,
+        5.454740047454834
+      ],
+      "min": [
+        -5.019969940185547,
+        -4.6875,
+        -4.879700183868408
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 279936,
+      "componentType": 5126,
+      "count": 23328,
+      "max": [
+        0.9999863505363464,
+        0.9999927878379822,
+        0.9999997019767761
+      ],
+      "min": [
+        -0.9999863505363464,
+        -0.9999998211860657,
+        -0.9999327659606934
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 23328,
+      "max": [
+        0.9997989535331726,
+        0.9999997615814209,
+        0.9999927878379822,
+        1.0
+      ],
+      "min": [
+        -0.9997989535331726,
+        -0.9986529350280762,
+        -0.9999998211860657,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 23328,
+      "max": [
+        0.9716299772262573,
+        0.9892200231552124
+      ],
+      "min": [
+        0.01793999969959259,
+        0.013629999943077564
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 133632,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 559872,
+      "componentType": 5126,
+      "count": 4098,
+      "max": [
+        0.8268600106239319,
+        1.0922800302505493,
+        1.0803200006484985
+      ],
+      "min": [
+        -4.12693977355957,
+        -1.0867899656295776,
+        -1.1141899824142456
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 609048,
+      "componentType": 5126,
+      "count": 4098,
+      "max": [
+        0.9999160766601563,
+        0.9982284307479858,
+        0.9991472363471985
+      ],
+      "min": [
+        -0.9998772740364075,
+        -0.9982284307479858,
+        -0.9991233348846436
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 534528,
+      "componentType": 5125,
+      "count": 24192,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 658224,
+      "componentType": 5126,
+      "count": 258,
+      "max": [
+        0.7165499925613403,
+        -0.19307999312877655,
+        0.2783600091934204
+      ],
+      "min": [
+        -4.01462984085083,
+        -0.31742000579833984,
+        0.13672000169754028
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 661320,
+      "componentType": 5126,
+      "count": 258,
+      "max": [
+        0.9269921183586121,
+        -0.28523871302604675,
+        0.3237767517566681
+      ],
+      "min": [
+        -0.9256728291511536,
+        -0.3985176682472229,
+        0.20200636982917786
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 631296,
+      "componentType": 5125,
+      "count": 1152,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Katerina Novakova (https://sketchfab.com/KaterinaNovakova)",
+      "license": "CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pokemon-magikarp-aed89b4ee4f1421abc2b1613911d0ca8",
+      "title": "Pokemon - Magikarp"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 635904,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 186624,
+      "byteOffset": 635904,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 664416,
+      "byteOffset": 822528,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 373248,
+      "byteOffset": 1486944,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1860192,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/magicarpBody_baseColor.png"
+    },
+    {
+      "uri": "textures/magicarpBody_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "magicarpBody",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "eyeWhite",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "eyeBlack",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0017123757,
+          0.0016593375,
+          0.0016593375,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Magikarp_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Eye_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Eye_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8
+          },
+          "indices": 10,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.43583000000000005,
+        0.6892900000000002,
+        -0.24054000000000003,
+        1.0
+      ],
+      "name": "Magikarp"
+    },
+    {
+      "mesh": 0,
+      "name": "Magikarp_0"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "matrix": [
+        0.87253,
+        0.0008800000000000002,
+        0.002990000000000001,
+        0.0,
+        -0.0004200000000000001,
+        0.8628100000000001,
+        -0.12986,
+        0.0,
+        -0.003090000000000001,
+        0.12986,
+        0.8628100000000001,
+        0.0,
+        1.44021,
+        -2.3756399999999993,
+        0.9876900000000001,
+        1.0
+      ],
+      "name": "Eye"
+    },
+    {
+      "mesh": 1,
+      "name": "Eye_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Eye_1"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9729,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 1,
+      "source": 1
+    }
+  ]
+}

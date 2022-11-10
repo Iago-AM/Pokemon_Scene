@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pokemon Logo
+* source:	https://sketchfab.com/3d-models/pokemon-logo-8ded92121a1b46c9bb6ef8e9ae50db08
+* author:	#3D $Resource$ (https://sketchfab.com/lopuh22721)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pokemon Logo" (https://sketchfab.com/3d-models/pokemon-logo-8ded92121a1b46c9bb6ef8e9ae50db08) by #3D $Resource$ (https://sketchfab.com/lopuh22721) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

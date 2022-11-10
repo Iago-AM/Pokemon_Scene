@@ -1,0 +1,11 @@
+Model Information:
+* title:	Test Model - Sitting Anime Girl
+* source:	https://sketchfab.com/3d-models/test-model-sitting-anime-girl-aeb0caeddddb40729fbe7761d6d107b9
+* author:	jasetroy (https://sketchfab.com/jasetroy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Test Model - Sitting Anime Girl" (https://sketchfab.com/3d-models/test-model-sitting-anime-girl-aeb0caeddddb40729fbe7761d6d107b9) by jasetroy (https://sketchfab.com/jasetroy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
